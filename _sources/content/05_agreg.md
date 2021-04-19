@@ -17,12 +17,14 @@ kernelspec:
 
 ## Regroupements
 
-* Auteurs/trices : **TODO**
+* Auteurs/trices : **CASTRIQUE Jérémy, NOJAC Dimitri, VAVASSEUR Salomé**
 
 Cette section traite de :
   * somme, count, max, min, avec ou sans groupe
 
   Le fichier que vous devez modifier pour ce chapitre est `mongo_book/content/05_agreg.md`.
+  
+  Je refais un test
 
 ## Successions d'étapes d'agrégation
 
